@@ -1108,3 +1108,30 @@ section.lazy-placeholder:after {
 .cid-rF5j08XYV3 .dropdown-item:hover {
   color: #767676 !important;
 }
+.cid-rF5lTwImdc {
+  padding-top: 120px;
+  padding-bottom: 90px;
+  background-color: #cc2952;
+  background: linear-gradient(45deg, #cc2952, #022a56);
+}
+.cid-rF5lTwImdc .media-container-row {
+  flex-direction: row-reverse;
+  -webkit-flex-direction: row-reverse;
+}
+@media (min-width: 992px) {
+  .cid-rF5lTwImdc .mbr-figure {
+    padding-right: 4rem;
+    padding-right: 0;
+    padding-left: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-rF5lTwImdc .mbr-figure {
+    padding-bottom: 3rem;
+  }
+}
+@media (max-width: 767px) {
+  .cid-rF5lTwImdc .mbr-text {
+    text-align: center;
+  }
+}
