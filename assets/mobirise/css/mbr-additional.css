@@ -1109,10 +1109,8 @@ section.lazy-placeholder:after {
   color: #767676 !important;
 }
 .cid-rF5lTwImdc {
-  padding-top: 120px;
-  padding-bottom: 90px;
-  background-color: #c9bd00;
-  background: linear-gradient(45deg, #c9bd00, #ff0000);
+  background-color: #022a56;
+  background: linear-gradient(45deg, #022a56, #022a56);
 }
 .cid-rF5lTwImdc .media-container-row {
   flex-direction: row-reverse;
@@ -1134,6 +1132,9 @@ section.lazy-placeholder:after {
   .cid-rF5lTwImdc .mbr-text {
     text-align: center;
   }
+}
+.cid-rF5lTwImdc H1 {
+  color: #ffffff;
 }
 .cid-rF6vuS60yg {
   padding-top: 90px;
