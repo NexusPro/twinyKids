@@ -542,8 +542,8 @@ a:hover {
   color: #dfd9c6;
 }
 /* Scroll to top button*/
-.scrollToTop_wraper {
-  display: none;
+#scrollToTop a {
+  border-radius: 100px;
 }
 .form-control {
   font-family: 'Rubik', sans-serif;
@@ -1111,6 +1111,8 @@ section.lazy-placeholder:after {
 .cid-rF5lTwImdc {
   padding-top: 120px;
   padding-bottom: 90px;
+  background-color: #c9bd00;
+  background: linear-gradient(45deg, #c9bd00, #ff0000);
 }
 .cid-rF5lTwImdc .media-container-row {
   flex-direction: row-reverse;
