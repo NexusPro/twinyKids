@@ -1109,6 +1109,8 @@ section.lazy-placeholder:after {
   color: #767676 !important;
 }
 .cid-rF5lTwImdc {
+  padding-top: 120px;
+  padding-bottom: 15px;
   background-color: #022a56;
   background: linear-gradient(45deg, #022a56, #022a56);
 }
